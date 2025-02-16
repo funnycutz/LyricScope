@@ -24,6 +24,10 @@ Examples of unacceptable behavior by participants include:
 - Publishing others’ private information, such as a physical or electronic address, without explicit permission
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
+## User’s Code of Conduct
+
+All users of this project are required to respect and abide by the [User’s Code of Conduct](https://funnycutz.github.io/LyricScope/USER_CODE_OF_CONDUCT), which has been established to ensure a positive, welcoming, and productive environment for all participants. By using this project and interacting within its community, you agree to follow these principles.
+
 ## Our Responsibilities
 
 Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
